@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Isac de Goes 😊 👐
 
-[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/degoescavalheiro)
+[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/isacwebdesign)
 
 ![Isac-squall GitHub stats](https://github-readme-stats.vercel.app/api?username=isac-squall&show_icons=true&theme=radical)
 
