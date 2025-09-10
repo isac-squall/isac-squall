@@ -16,15 +16,15 @@
 
 ## Projetos em destaque
 
-### [Projeto Portfólio Pessoal](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
+### [Este projeto é uma aplicação web desenvolvida com Streamlit, que tem como objetivo apresentar meu portfólio e compartilhar alguns dos meus projetos mais relevantes. Aqui você encontrará informações sobre minhas habilidades, experiências e projetos em que trabalhei](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
 **Descrição:** Site pessoal para apresentar meus trabalhos, habilidades e contato.
-**Tecnologias:** Python, Streamlit, JavaScript
+**Tecnologias:** Python, Streamlit.
 
 ---
 
 ### [Dashboard de Otimização de Processos ERP: Ferramenta Python/Streamlit para análise de fluxos de trabalho em Excel, automatizando relatórios de estoque/vendas.:](https://isac-squall-analise-de-planilhas-excel-com-streaml-index-9wkhrm.streamlit.app/)
 **Descrição:** Aplicação web para cadastro e gerenciamento de usuários.
-**Tecnologias:** HTML5, CSS3, JavaScript, MySQL
+**Tecnologias:** Python, Streamlit
 
 ---
 
