@@ -19,7 +19,7 @@
 
 ## Projetos em destaque
 
-### [Este projeto é uma aplicação web desenvolvida com Streamlit, que tem como objetivo apresentar meu portfólio e compartilhar alguns dos meus projetos mais relevantes. Aqui você encontrará informações sobre minhas habilidades, experiências e projetos.](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
+### [Este projeto é uma aplicação web desenvolvida com Streamlit, que tem como objetivo apresentar meu portfólio e compartilhar alguns dos meus projetos mais relevantes. Aqui você encontrará informações sobre minhas habilidades, experiências e contato.](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
 **Descrição:** Site pessoal para apresentar meus trabalhos, habilidades e contato.
 **Tecnologias:** Python, Streamlit.
 
@@ -32,7 +32,7 @@
 ---
 
 ### [Landing Page para Negócios Locais](https://site-dayanenail.vercel.app/)
-**Descrição:** Página de apresentação para pequenos negócios, focada em conversão de clientes.
+**Descrição:** Página de apresentação para pequenos negócios, focada em conversão de clientes Site profissional para Dayane Linacre Nail Art, especializado em nail art, unhas de gel, acrílico e fibra de vidro em Osasco, SP..
 **Tecnologias:** HTML5, CSS3, JavaScript 
 
 ---
