@@ -14,4 +14,41 @@
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+## Projetos em destaque
+
+### [Projeto Portfólio Pessoal](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
+**Descrição:** Site pessoal para apresentar meus trabalhos, habilidades e contato.
+**Tecnologias:** Python, Streamlit, JavaScript
+
+---
+
+### [Dashboard de Otimização de Processos ERP: Ferramenta Python/Streamlit para análise de fluxos de trabalho em Excel, automatizando relatórios de estoque/vendas.:](https://isac-squall-analise-de-planilhas-excel-com-streaml-index-9wkhrm.streamlit.app/)
+**Descrição:** Aplicação web para cadastro e gerenciamento de usuários.
+**Tecnologias:** HTML5, CSS3, JavaScript, MySQL
+
+---
+
+### [Landing Page para Negócios Locais](https://site-dayanenail.vercel.app/)
+**Descrição:** Página de apresentação para pequenos negócios, focada em conversão de clientes.
+**Tecnologias:** HTML5, CSS3, JavaScript
+
+---
+
+### [Projeto com aplicação simples de gerenciamento de tarefas (CRUD) construída com Streamlit. A aplicação permite que os usuários adicionem, editem e removam tarefas de uma lista.](https://isac-squall-projeto-crud-todo-streamlit-appsrcapp-orfsng.streamlit.app/)
+**Descrição:** Blog dinâmico para publicação de notícias e artigos.
+**Tecnologias:** Python, Streamli, MySQL
+**Estrutura:** todo-streamlit-app
+├── src
+│   ├── app.py          # Ponto de entrada da aplicação Streamlit
+│   ├── models
+│   │   └── task.py     # Definição da classe Task
+│   ├── services
+│   │   └── crud.py     # Funções para operações CRUD
+│   └── utils
+│       └── __init__.py # Inicializador do pacote utils
+├── requirements.txt     # Dependências do projeto
+└── README.md            # Documentação do projeto
+
+---
+
 Estudando novas Tecnologias e melhorias continua!
