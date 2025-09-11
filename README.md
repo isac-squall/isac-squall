@@ -20,7 +20,7 @@
 
 ## Projetos em destaque
 
-### [Este projeto é uma aplicação web desenvolvida com Streamlit, que tem como objetivo apresentar meu portfólio e compartilhar alguns dos meus projetos mais relevantes. Aqui você encontrará informações sobre minhas habilidades, experiências e contato.](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
+### [Este projeto é uma aplicação web desenvolvida com Streamlit, que tem como objetivo apresentar meu portfólio e compartilhar alguns dos meus projetos mais relevantes.](https://isac-squall-carteira-de-projetos-main-30glkr.streamlit.app/)
 **Descrição:** Site pessoal para apresentar meus trabalhos, habilidades e contato.
 **Tecnologias:** Python, Streamlit.
 
